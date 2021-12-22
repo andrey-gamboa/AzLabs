@@ -7,4 +7,4 @@ Goal:
 
 Script:
 
-[Deploy to Azure](https://pages.github.com/)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fandrey-gamboa%2FLabs%2Fmain%2FTemplates%2Fvwan-vnet-to-vnet-configure.json)
