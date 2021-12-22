@@ -2,7 +2,7 @@
 
 This Lab is designed to test and start learning about Azure Virtual Wan 
 
-<img src="https://github.com/andrey-gamboa/Labs/blob/main/Resources/vwanvnet2vnet.png" width="400" height="600">
+<img src="https://github.com/andrey-gamboa/Labs/blob/main/Resources/vwanvnet2vnet.png" width="600" height="400">
 
 ARM Template: This ARM template  will create the SPOKES to save us time so we can focus on the VWAN Configuration.
 
